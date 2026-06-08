@@ -1,3 +1,3 @@
 <?php
-echo "API funcionando correctamente";
+echo "API funcionando correctamente v2";
 ?>
